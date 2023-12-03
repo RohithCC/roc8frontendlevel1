@@ -1,0 +1,17 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #343a40;
+}
+
+.footer .container {
+  max-width: 960px; /* Adjust the max-width as needed */
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container .text-center .text-muted {
+  color: whitesmoke;
+}
